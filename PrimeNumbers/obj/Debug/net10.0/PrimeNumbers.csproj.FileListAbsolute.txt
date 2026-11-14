@@ -1,0 +1,16 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.runtimeconfig.dev.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\refint\PrimeNumbers.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\ref\PrimeNumbers.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PrimeNumbers\obj\Debug\net10.0\PrimeNum.BD6AA73A.Up2Date
